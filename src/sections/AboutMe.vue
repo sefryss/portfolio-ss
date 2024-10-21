@@ -21,7 +21,7 @@ let currentTab = ref(1);
           <div class="relative">
             <img
               class="w-full rounded-lg md:w-[400px] border-8 border-slate-300 dark:border-white h-auto shadow-md"
-              src="pp.png"
+              src="/images/pp.png"
               alt="Sefry Syahrudin"
             />
             <div
