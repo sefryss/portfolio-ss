@@ -4,7 +4,7 @@ import LinkButton from "@/components/LinkButton.vue";
 
 <template>
     <!-- Hire Me -->
-    <section class="relative pt-28 lg:pt-36">
+    <!-- <section class="relative pt-28 lg:pt-36">
         <div class="container mx-auto max-w-6xl 2xl:max-w-7xl">
             <div class="grid grid-cols-1">
                 <div class="bg-gradient-to-r from-sky-500 to-indigo-700 dark:from-slate-800 dark:via-slate-900 dark:to-slate-800 shadow-md rounded-lg py-7 px-5 md:py-14 md:px-20 flex flex-col items-center justify-center relative">
@@ -20,6 +20,6 @@ import LinkButton from "@/components/LinkButton.vue";
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Hire Me -->
 </template>
