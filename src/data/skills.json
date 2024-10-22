@@ -1,70 +1,94 @@
 {
-    "skills": [
-        {
-            "id": 1,
-            "link": "#",
-            "name": "Bootstrap",
-            "image": "images/bootstrap.jpg"
-        },
-        {
-            "id": 2,
-            "link": "#",
-            "name": "Tailwind CSS",
-            "image": "images/tailwind.jpg"
-        },
-        {
-            "id": 3,
-            "link": "#",
-            "name": "Php",
-            "image": "images/php.jpg"
-        },
-        {
-            "id": 4,
-            "link": "#",
-            "name": "Laravel",
-            "image": "images/laravel.jpg"
-        },
-        {
-            "id": 5,
-            "link": "#",
-            "name": "Javascript",
-            "image": "images/javascript.jpg"
-        },
-        {
-            "id": 6,
-            "link": "#",
-            "name": "Vue.js",
-            "image": "images/vue.jpg"
-        },
-        {
-            "id": 7,
-            "link": "#",
-            "name": "Alpine.js",
-            "image": "images/alpine.jpg"
-        },
-        {
-            "id": 8,
-            "link": "#",
-            "name": "Livewire",
-            "image": "images/livewire.jpg"
-        },
-        {
-            "id": 9,
-            "link": "#",
-            "name": "Github",
-            "image": "images/github.jpg"
-        },
-        {
-            "id": 10,
-            "link": "#",
-            "name": "MySQL",
-            "image": "images/sql.jpg"
-        },
-        {
-            "id": 11,
-            "link": "#",
-            "name": "PostgreSQL",
-            "image": "images/pgsql.jpg"
-        }
-    ]
+  "skills": [
+    {
+      "id": 1,
+      "link": "#",
+      "name": "Flutter",
+      "image": "images/flutter-icon.png"
+    },
+    {
+      "id": 2,
+      "link": "#",
+      "name": "JavaScript",
+      "image": "images/js-icon.png"
+    },
+    {
+      "id": 3,
+      "link": "#",
+      "name": "React",
+      "image": "images/react-icon.png"
+    },
+    {
+      "id": 4,
+      "link": "#",
+      "name": "Laravel",
+      "image": "images/laravel-icon.png"
+    },
+    {
+      "id": 5,
+      "link": "#",
+      "name": "Figma",
+      "image": "images/figma-icon.png"
+    },
+    {
+      "id": 6,
+      "link": "#",
+      "name": "Vue.js",
+      "image": "images/vue-icon.png"
+    },
+    {
+      "id": 7,
+      "link": "#",
+      "name": "Firebase",
+      "image": "images/firebase-icon.png"
+    },
+    {
+      "id": 8,
+      "link": "#",
+      "name": "Bootstrap",
+      "image": "images/bootstrap-icon.png"
+    },
+    {
+      "id": 9,
+      "link": "#",
+      "name": "Tailwind CSS",
+      "image": "images/css-icon.png"
+    },
+    {
+      "id": 10,
+      "link": "#",
+      "name": "MySQL",
+      "image": "images/mysql-icon.png"
+    },
+    {
+      "id": 11,
+      "link": "#",
+      "name": "Git",
+      "image": "images/git-icon.png"
+    },
+    {
+      "id": 12,
+      "link": "#",
+      "name": "PHP",
+      "image": "images/php-icon.png"
+    },
+    {
+      "id": 13,
+      "link": "#",
+      "name": "Midtrans",
+      "image": "images/midtrans-icon.png"
+    },
+    {
+      "id": 14,
+      "link": "#",
+      "name": "Xendit",
+      "image": "images/xendit-icon.png"
+    },
+    {
+      "id": 15,
+      "link": "#",
+      "name": "GitHub",
+      "image": "images/github-icon.png"
+    }
+  ]
 }
